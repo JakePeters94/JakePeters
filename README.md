@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakeFrmSt8Farm
 - 👀 I’m interested in Software Developent and Programming
 - 🌱 I’m currently learning Basic Coding
-- 💞️ I’m not looking to collaborate currently but will once im knowledgable enough
+- 💞️ I’m not looking to collaborate currently but will once I'm knowledgable enough
 - 📫 You can reach me at jakep9436@gmail.com
 
 <!---
